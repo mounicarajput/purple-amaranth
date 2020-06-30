@@ -1,0 +1,36 @@
+/**
+ * Styles for dark backgrounds
+ */
+.inverse {
+  color: $white;
+
+  a {
+    color: $white;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $white;
+  }
+
+  .btn {
+    background-color: $blue;
+    border-color: $blue;
+    color: $white;
+  }
+
+  .btn--secondary {
+    background-color: $white;
+    border-color: $white;
+    color: $blue;
+  }
+
+  .btn--clear {
+    background: 0;
+    color: $white;
+  }
+}

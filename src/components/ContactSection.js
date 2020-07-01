@@ -7,16 +7,17 @@ export default class ContactSection extends React.Component {
               <div className="container container--md">
                 <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                   <div className="sr-only">
-                    <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+                    <label id="honeypot-label" htmlFor="honeypot">Don't fill this out if you're human:</label>
+                    <input aria-labelledby="honeypot-label" id="honeypot" name="bot-field" />
                   </div>
-                  <input type="hidden" name="form-name" value="contactForm" />
+                  <input aria-labelledby="honeypot-label" type="hidden" name="form-name" value="contactForm" />
                   <div className="form-group">
-                    <label htmlFor="name">Name</label>
-                    <input type="text" name="name" id="name" placeholder="Your name" required />
+                    <label id="name-label" htmlFor="name">Name</label>
+                    <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
                   </div>
                   <div className="form-group">
-                    <label htmlFor="email">Email</label>
-                    <input type="email" name="email" id="email" placeholder="Your email" required />
+                    <label id="email-label" htmlFor="email">Email</label>
+                    <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Your email" required />
                   </div>
                   <div className="form-group">
                     <label htmlFor="subject">Subject</label>
@@ -30,12 +31,12 @@ export default class ContactSection extends React.Component {
                     </div>
                   </div>
                   <div className="form-group">
-                    <label htmlFor="message">Message</label>
-                    <textarea name="message" id="message" rows="5" placeholder="Your message" />
+                    <label id="message-label" htmlFor="message">Message</label>
+                    <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your message" />
                   </div>
                   <div className="form-group form-checkbox">
-                    <input type="checkbox" name="consent" id="consent" />
-                    <label htmlFor="consent">I understand that this form is storing my submitted information so I can be
+                    <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
+                    <label id="consent-label" htmlFor="consent">I understand that this form is storing my submitted information so I can be
                       contacted.</label>
                   </div>
                   <div className="form-submit">

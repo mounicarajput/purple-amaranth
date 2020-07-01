@@ -12,7 +12,7 @@ logicFields:
   - blog_feed_section.recent_count
 metadata:
   title: Starter
-  description: An ultra customizable generic theme
+  description: Ultra customizable starter. A developers' favorite.
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
   images:

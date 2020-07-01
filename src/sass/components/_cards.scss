@@ -2,10 +2,10 @@
  * Cards
  */
 .card {
-  background-color: $white;
-  border: 1px solid $light-gray;
+  background-color: $color-bg;
+  border: 1px solid $color-border;
   border-radius: 3px;
-  box-shadow: 0 0 1em rgba($black,.08);
+  box-shadow: $box-shadow;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -62,7 +62,7 @@
 
 .card__meta,
 .card__footer {
-  color: $gray;
+  color: $color-meta;
   font-size: 0.875em;
   line-height: 1.5;
 }

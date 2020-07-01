@@ -18,11 +18,11 @@ input[type="url"],
 select,
 textarea {
   background: 0;
-  border: 1px solid $light-gray;
+  border: 1px solid $color-border;
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
-  color: $dark-gray;
+  color: $color-text;
   display: block;
   font-size: 16px;
   font-weight: normal;
@@ -71,12 +71,12 @@ textarea {
   }
 
   &:before {
-    border-top-color: $dark-gray;
+    border-top-color: $color-text;
     margin-top: .125em;
   }
 
   &:after {
-    border-bottom-color: $dark-gray;
+    border-bottom-color: $color-text;
     margin-top: -.75em;
   }
 }

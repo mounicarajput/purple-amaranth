@@ -2,7 +2,7 @@
  * Site Header
  */
 .site-header {
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid $color-border;
   padding-bottom: 1.125rem;
   padding-top: 1.125rem;
 }
@@ -55,7 +55,7 @@
 @include media-breakpoint-down(md) {
   .navbar {
     &:after {
-      background: rgba($very-light-gray,.8);
+      background: $color-bg-overlay;
       content: "";
       height: 100vh;
       left: 0;
@@ -76,7 +76,7 @@
   .navbar__menu {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background-color: $white;
+    background-color: $color-bg;
     bottom: 0;
     right: -100%;
     max-width: $width-xs;
@@ -110,10 +110,10 @@
   }
 
   .navbar__item {
-    border-top: 1px solid $light-gray;
+    border-top: 1px solid $color-border;
 
     &:not(.navbar__item--btn):last-child {
-      border-bottom: 1px solid $light-gray;
+      border-bottom: 1px solid $color-border;
     }
 
     a {

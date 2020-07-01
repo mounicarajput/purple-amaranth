@@ -6,11 +6,11 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 .btn {
-  background-color: $blue;
-  border: 2px solid $blue;
+  background-color: $color-btn-bg;
+  border: 2px solid $color-btn-border;
   border-radius: 5px;
   box-sizing: border-box;
-  color: $white;
+  color: $color-btn;
   cursor: pointer;
   display: inline-block;
   font-size: 1em;
@@ -32,8 +32,8 @@ input[type="reset"],
 
 .btn--secondary {
   background-color: transparent;
-  border-color: $blue;
-  color: $blue;
+  border-color: $color-btn-alt-border;
+  color: $color-btn-alt;
 }
 
 .btn--icon {
@@ -51,7 +51,7 @@ input[type="reset"],
 .btn--clear {
   background: 0;
   border: 0;
-  color: $very-dark-gray;
+  color: $color-btn-clear;
 
   &:hover,
   &:focus,

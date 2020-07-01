@@ -7,11 +7,11 @@
   padding: 0;
 
   li {
-    color: inherit;
+    color: $color-nav-link;
     line-height: 1.25;
 
     &.is-active {
-      color: $blue;
+      color: $color-nav-link-active;
     }
   }
 
@@ -23,7 +23,7 @@
       text-decoration: none;
 
       &:hover {
-        color: $blue;
+        color: $color-nav-link-hover;
       }
     }
   }

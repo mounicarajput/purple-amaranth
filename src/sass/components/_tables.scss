@@ -2,7 +2,7 @@
  * Tables
  */
 table {
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid $color-border;
   border-collapse: collapse;
   border-spacing: 0;
   line-height: 1.5;
@@ -13,7 +13,7 @@ table {
 }
 
 caption {
-  color: $gray;
+  color: $color-meta;
   font-size: 0.875em;
   font-style: italic;
   margin-bottom: 0.75rem;
@@ -22,12 +22,12 @@ caption {
 
 th,
 td {
-  border-top: 1px solid $light-gray;
+  border-top: 1px solid $color-border;
   padding: 0.5em 5px;
 }
 
 th {
-  color: $very-dark-gray;
+  color: $color-heading;
   font-weight: 700;
 }
 

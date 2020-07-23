@@ -4,10 +4,11 @@ date: '2020-07-23'
 categories: []
 tags: []
 excerpt: >-
-  Vastu is an ancient science of building structures based on the study of
-  directions and the laws of nature. It combines these two important aspects and
-  accordingly aligns a property to draw the maximum benefits for the
-  inhabitants. Though vastu was essentially restricted to building temples....
+  To dowse is to search, with the aid of simple hand held tools or instruments,
+  for that which is otherwise hidden from view or knowledge. Traditionally
+  dowsing has been a method of ‘divining’ or looking for underground sources of
+  water (and often oil). But dowsing isn’t just about finding water or oil. It
+  can be applied to searches.... 
 template: post
 image: images/vv.jpg
 ---

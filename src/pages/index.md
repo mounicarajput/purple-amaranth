@@ -69,6 +69,11 @@ sections:
           - label: Learn More
             url: ''
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
   - type: blog_feed_section
     title: Articles
     show_recent: true

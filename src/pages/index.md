@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /blog
             style: secondary
-      - title: Astrolog
+      - title: Astrology
         content: >-
           Hindu astrology, Indian astrology or the Vedic astrology is an ancient
           Indian science which studies the planetary positions with respect to
@@ -70,7 +70,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: Projects
+    title: Articles
     show_recent: true
     recent_count: 3
   - type: cta_section

@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Services
 template: page
 ---
 ###### SERVICES- VASTU, ASTROLOGY, DOWSING

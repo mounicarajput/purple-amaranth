@@ -52,7 +52,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: ''
+            url: /blog/astrology
             style: secondary
       - title: Drowsing
         content: >-

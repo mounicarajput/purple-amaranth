@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Vaastu Drishti
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Lorem ipsum dolor sit amet, '
     actions:
       - label: Learn More
         url: /features

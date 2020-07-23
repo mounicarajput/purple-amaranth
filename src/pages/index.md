@@ -2,10 +2,15 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Vaastu Drishti
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Choosing a Vaastu consultant is as important as choosing any other
+      professional be it a doctor, interior designer, business consultant etc. 
+      The consultant should be knowledgeable and should have a good hold of the
+      subject. It is therefore important that the consultant has a formal
+      training at a school as well as experience.  A good consultant works
+      methodically and is always available to clear your doubts and provide
+      support.
     actions:
       - label: Learn More
         url: /features
@@ -14,7 +19,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/unnamed.jpg
     image_position: right
     has_background: true
     background:

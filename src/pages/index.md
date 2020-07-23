@@ -75,7 +75,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Vaastu & Astrological Solutions
-    subtitle: .
+    subtitle: ''
     actions:
       - label: Contact us
         url: /contact

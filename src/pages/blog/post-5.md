@@ -9,9 +9,9 @@ tags:
   - Netlify
 image: images/5.png
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Though there are numerous people today who understand the importance of
+  building a structure as per vastu, there are still many who feel that it makes
+  little or no sense in today's fast paced, modern lifestyle. 
 template: post
 ---
 

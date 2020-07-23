@@ -52,9 +52,10 @@ The principles of Vastu can be applied on any closed structure. Though the basic
 10.   **Main entry gate Depending upon;** in which of the 16 directions the Main entry gate is located will define its implications.
 ###### VASTU PRINCIPLES FOR INTERIORS
 
-Planning the rooms of a building as per the 16 directions.
-Color combination of walls/upholstery/drapery etc.
-Placement of mirrors.
-Sitting arrangement, esp. in an office complex or commercial building
-Positioning of furniture
-Placing Vastu objects facing the right directions.
+1. Planning the rooms of a building as per the 16 directions.
+2. Color combination of walls/upholstery/drapery etc.
+3. Placement of mirrors.
+4. Sitting arrangement, esp. in an office complex or commercial
+5. building
+6. Positioning of furniture
+7. Placing Vastu objects facing the right directions.

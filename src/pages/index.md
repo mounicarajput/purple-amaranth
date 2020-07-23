@@ -85,7 +85,7 @@ sections:
       - label: Contact us
         url: /contact
         style: primary
-    has_background: true
+    has_background: false
     background_color: blue
 template: advanced
 ---

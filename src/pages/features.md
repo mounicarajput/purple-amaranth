@@ -33,7 +33,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /blog/astrology
             style: primary
       - title: Dowsing
         content: >-

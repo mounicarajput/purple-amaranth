@@ -34,7 +34,7 @@ sections:
           for the inhabitants. Though vastu was essentially restricted to
           building temples....
         align: left
-        image: images/feature.svg
+        image: images/panoramic-sunflower.jpg
         image_position: right
         actions:
           - label: Learn More

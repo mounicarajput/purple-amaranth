@@ -56,22 +56,29 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/Vastudrishti/posts/1925060960866374",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/VaastuDrishti/",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/vaastudrishti/",
                 "style": "link",
                 "new_window": true
+            },
+            {
+                "label": "WhatsApp",
+                "url": "https://api.whatsapp.com/send?phone=+1-7205257748&text=Hi,%20I%20Need%20Vaastu%20Services",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "content": "&copy; Stackbit-Starter. All rights reserved.",

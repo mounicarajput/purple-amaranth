@@ -5,7 +5,6 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - Stackbit
   - ''
 image: images/vaastu.jpg
 excerpt: >-

@@ -38,7 +38,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog
+            url: ''
             style: secondary
       - title: Astrology
         content: >-
@@ -52,7 +52,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: ''
             style: secondary
       - title: Drowsing
         content: >-
@@ -67,7 +67,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: ''
             style: secondary
   - type: blog_feed_section
     title: Articles

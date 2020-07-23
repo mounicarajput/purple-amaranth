@@ -12,7 +12,7 @@ sections:
       methodically and is always available to clear your doubts and provide
       support.
     actions:
-      - label: Learn More
+      - label: More
         url: /about
         style: primary
       - label: Contact Us

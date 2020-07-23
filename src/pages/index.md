@@ -94,6 +94,11 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus

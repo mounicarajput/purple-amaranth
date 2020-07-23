@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - Stackbit
-  - Netlify
+  - ''
 image: images/vaastu.jpg
 excerpt: >-
   Though there are numerous people today who understand the importance of

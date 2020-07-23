@@ -3,12 +3,7 @@ title: ASTROLOGY
 date: '2020-07-23'
 categories: []
 tags: []
-excerpt: >-
-  To dowse is to search, with the aid of simple hand held tools or instruments,
-  for that which is otherwise hidden from view or knowledge. Traditionally
-  dowsing has been a method of ‘divining’ or looking for underground sources of
-  water (and often oil). But dowsing isn’t just about finding water or oil. It
-  can be applied to searches.... 
+excerpt: ''
 template: post
 image: images/as.jpg
 ---

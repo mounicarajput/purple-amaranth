@@ -55,6 +55,6 @@ sections:
         url: /contact
         style: secondary
     has_background: true
-    background_color: blue
+    background_color: gray
 template: advanced
 ---

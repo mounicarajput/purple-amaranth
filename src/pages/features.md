@@ -48,7 +48,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog
+            url: /blog/dowsing
             style: primary
 template: advanced
 ---

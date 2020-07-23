@@ -70,7 +70,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Projects
     show_recent: true
     recent_count: 3
   - type: cta_section

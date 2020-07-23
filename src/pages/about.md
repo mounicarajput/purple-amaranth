@@ -6,18 +6,47 @@ sections:
     align: center
   - type: content_section
     content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+
+      I’m a professionally trained Vastu consultant and have been practicing
+      since 2003. I have worked on residential, commercial, institutional and
+      corporate projects. I follow a methodical, process based on detailed study
+      of the property. I have worked on all kinds of properties and have vast
+      experience in the subject.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      I also do dowsing where I use 2 copper rods to check for the positive or
+      negative vibrations within a property. It shows the occupants how an
+      unkempt, cluttered and gadget loaded room can interfere with the positive
+      flow of energies.
+
+
+      I use Fengshui principals to cleanse a space and to increase positivity in
+      a property. When structural changes are not possible Fengshui helps in
+      giving a boost to the flow of energy within a property. Proper placement
+      of furniture, colors, décor, plants etc. helps the inmates in reducing
+      negative energy around them.
+
+
+      Hindu Vedic astrology helps in understanding the movement of planets and
+      their effects on an individual. The study of Astrology has helped me guide
+      people about their ongoing circumstances as well as how to cope with
+      troubled times. Astrology helps in throwing light on various aspects of an
+      individual’s life path. I also combine Astrology with Vastu where a
+      comprehensive analysis is required.
+
+
+      The study of thee four subjects act like four pillars and has helped me
+      achieve a high degree of success rate. It has helped my corporate clients
+      achieve stupendous turnovers, institutional clients like schools have
+      benefited by getting recognition and fame, residential clients have
+      benefited by choosing the correct property or correcting their existing
+      property and achieve good health, peace and prosperity. I am currently
+      based out of Denver, USA but provide both online and on site
+      consultations.
+
+
+      You may connect with me on Facebook, Instagram, WhatsApp or Linkedin for
+      more details.
   - type: team_section
     title: Our Team
     team:

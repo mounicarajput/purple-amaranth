@@ -3,7 +3,7 @@ title: DOWSING
 date: '2020-07-23'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: ''
 template: post
 image: images/dowsing-pendulum.jpg
 ---

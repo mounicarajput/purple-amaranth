@@ -38,7 +38,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog/post
+            url: /
             style: secondary
       - title: Astrology
         content: >-

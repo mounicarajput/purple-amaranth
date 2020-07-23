@@ -63,7 +63,7 @@ sections:
           isn’t just about finding water or oil. It can be applied to
           searches.... 
         align: left
-        image: images/feature.svg
+        image: images/enthusiastic-birch.jpg
         image_position: right
         actions:
           - label: Learn More

@@ -10,6 +10,7 @@ excerpt: >-
   building a structure as per vastu, there are still many who feel that it makes
   little or no sense in today's fast paced, modern lifestyle. 
 template: post
+image: images/adorable-zucchini.jpg
 ---
 ###### VASTU IN THE 21ST CENTURY:
 

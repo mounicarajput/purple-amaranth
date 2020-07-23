@@ -41,14 +41,14 @@ The principles of Vastu can be applied on any closed structure. Though the basic
 ###### VASTU PRINCIPLES FOR EXTERIORS
 ###### 
 1. **Open Spaces like Verandhas, Balconies, Porches:** These days due to shortage of space everyone is in a bid to occupy as much built in area as possible. However, what one does not realize is that even the building needs to breath. With little or no open space the building will yield more negative energies than positive. Vastu determines which area and how much should be left open in order to give the inmates maximum benefits.
-Proportion of the building: Again lopsided construction will yield only lop sided results. It is therefore essential to know the exact proportion in which the building should be contructed vis a vis the plot size
-Ground level: It is more or less the same as the Slope Level.
-Roofing: It is important to remember that the roof should slope towards North & North East
-Building Height: The height of the building can be either equal on all sides or more raised on the Southern sides
-Cellars and Basements: One cannot utilize the entire floor under the building as a basement. How much area needs to be left untouched is important.
-Staircases: Both the direction and the position of staircases in any structure are important
+2. **Proportion of the building**: Again lopsided construction will yield only lop sided results. It is therefore essential to know the exact proportion in which the building should be contructed vis a vis the plot size
+3. **Ground level:** It is more or less the same as the Slope Level.
+4. **Roofing:** It is important to remember that the roof should slope towards North & North East
+5. **Building Height:** The height of the building can be either equal on all sides or more raised on the Southern sides
+6. **Cellars and Basements:** One cannot utilize the entire floor under the building as a basement. How much area needs to be left untouched is important.
+7. **Staircases**: Both the direction and the position of staircases in any structure are important
 Overhead and Underground Water Tanks, Swimming Pools, Septic Tanks, Bore Well: The right position of all these is important. Placing them in a wrong directions can have adverse effects on health, finances or overall well-being.
-WC’s: One has to be very careful in positioning the WC’s in their exact direction. But even if they are built in the right directions keeping them clean is of utmost importance.
+**WC’s:** One has to be very careful in positioning the WC’s in their exact direction. But even if they are built in the right directions keeping them clean is of utmost importance.
 Main entry gate Depending upon; in which of the 16 directions the Main entry gate is located will define its implications.
 VASTU PRINCIPLES FOR INTERIORS
 

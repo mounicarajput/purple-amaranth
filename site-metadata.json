@@ -25,9 +25,16 @@
                 "style": "link"
             },
             {
+                "label": "Projects",
+                "url": "/project",
+                "style": "link"
+            },
+            {
                 "label": "Contact Us",
                 "url": "/contact/",
-                "style": "primary"
+                "style": "primary",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "logo": "images/logo1.jpg"

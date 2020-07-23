@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Vastu
 date: '2020-07-23'
 categories: []
 tags: []

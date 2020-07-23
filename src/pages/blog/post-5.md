@@ -38,8 +38,11 @@ The principles of Vastu can be applied on any closed structure. Though the basic
 6. **Size and shape of the plot:** The plots can be of various shapes and sizes, though it is preferred to stick to the usual Square and Rectangular shape.
 7. **Projections and Extensions:** Haphazard and mindless construction can lead to certain alterations, which are never beneficial. They can lead to a number of problems and therefore one has to be careful before carrying out anykind of renovation work in form of projections and extentions.
 8. **Obstruction to the plot:** Any kind of obstruction whether from inside or from outside the plot needs to be taken into account. For e.g. A structure constructed close to a flyover or railway track can experience some kind of an ill effect. Therefore it is essential to take care of any such defect.
+
+
 ###### VASTU PRINCIPLES FOR EXTERIORS
 ###### 
+
 1. **Open Spaces like Verandhas, Balconies, Porches:** These days due to shortage of space everyone is in a bid to occupy as much built in area as possible. However, what one does not realize is that even the building needs to breath. With little or no open space the building will yield more negative energies than positive. Vastu determines which area and how much should be left open in order to give the inmates maximum benefits.
 2. **Proportion of the building**: Again lopsided construction will yield only lop sided results. It is therefore essential to know the exact proportion in which the building should be contructed vis a vis the plot size
 3. **Ground level:** It is more or less the same as the Slope Level.
@@ -50,6 +53,8 @@ The principles of Vastu can be applied on any closed structure. Though the basic
 8.   **Overhead and Underground Water Tanks, Swimming Pools,Septic Tanks, Bore Well:** The right position of all these is important. Placing them in a wrong directions can have adverse effects on health, finances or overall well-being.
 9.   **WC’s:** One has to be very careful in positioning the WC’s in their exact direction. But even if they are built in the right directions keeping them clean is of utmost importance.
 10.   **Main entry gate Depending upon;** in which of the 16 directions the Main entry gate is located will define its implications.
+
+
 ###### VASTU PRINCIPLES FOR INTERIORS
 
 1. Planning the rooms of a building as per the 16 directions.

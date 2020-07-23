@@ -82,9 +82,11 @@ sections:
             style: secondary
       - title: Feature 2
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Hindu astrology, Indian astrology or the Vedic astrology is an ancient
+          Indian science which studies the planetary positions with respect to
+          time and their effect on humans and other important events on earth.
+          The birth chart of an individual forms the road map of his journey on
+          planet...
         align: left
         image: images/feature.svg
         image_position: left

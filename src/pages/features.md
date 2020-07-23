@@ -19,7 +19,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /blog/vaastu
             style: primary
       - title: Astrology
         content: >-
@@ -48,7 +48,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog/dowsing
+            url: /blog/drowsing
             style: primary
 template: advanced
 ---

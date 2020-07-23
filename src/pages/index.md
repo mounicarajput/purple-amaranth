@@ -67,7 +67,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: ''
+            url: /blog
             style: secondary
   - type: blog_feed_section
     title: Articles

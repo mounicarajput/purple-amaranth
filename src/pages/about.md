@@ -49,7 +49,7 @@ sections:
       more details.
   - type: cta_section
     title: Join Us
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Vastu and Astrological Solutions.
     actions:
       - label: Contact Us
         url: /contact

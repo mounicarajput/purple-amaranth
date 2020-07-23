@@ -3,7 +3,14 @@ title: Home
 sections:
   - type: hero_section
     title: Vaastu Drishti
-    subtitle: ''
+    subtitle: >-
+      Choosing a Vaastu consultant is as important as choosing any other
+      professional be it a doctor, interior designer, business consultant etc. 
+      The consultant should be knowledgeable and should have a good hold of the
+      subject. It is therefore important that the consultant has a formal
+      training at a school as well as experience.  A good consultant works
+      methodically and is always available to clear your doubts and provide
+      support.
     actions:
       - label: Learn More
         url: /features

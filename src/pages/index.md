@@ -34,7 +34,7 @@ sections:
           for the inhabitants. Though vastu was essentially restricted to
           building temples....
         align: left
-        image: images/remarkable-planet.jpeg
+        image: images/images.jpeg
         image_position: right
         actions:
           - label: Learn More

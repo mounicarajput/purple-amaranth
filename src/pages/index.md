@@ -12,8 +12,8 @@ sections:
       methodically and is always available to clear your doubts and provide
       support.
     actions:
-      - label: Learn More
-        url: /features
+      - label: More
+        url: /about
         style: primary
       - label: Contact Us
         url: /contact

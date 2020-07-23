@@ -48,7 +48,7 @@ sections:
           The birth chart of an individual forms the road map of his journey on
           planet...
         align: left
-        image: images/feature.svg
+        image: images/cool-oregano.jpg
         image_position: left
         actions:
           - label: Learn More

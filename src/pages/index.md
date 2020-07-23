@@ -80,7 +80,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Astrology
         content: >-
           Hindu astrology, Indian astrology or the Vedic astrology is an ancient
           Indian science which studies the planetary positions with respect to

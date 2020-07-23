@@ -5,7 +5,6 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags: []
-image: images/vaastu.jpg
 excerpt: >-
   Though there are numerous people today who understand the importance of
   building a structure as per vastu, there are still many who feel that it makes

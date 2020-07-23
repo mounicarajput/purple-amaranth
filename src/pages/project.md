@@ -3,7 +3,20 @@ title: PROJECTS
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum
-- dolor sit amet
+Vaastu Drishti has worked on the following segments.
+
+* RESIDENTIAL
+* COMMERCIAL
+* EDUCATIONAL INSTITUTES
+* HOTELS
+* NURSING HOMES
+* BEAUTY SALONS
+* INDUSTRIAL UNIT
+* APARTMENTS
+* CORPORATE HOUSES
+
+
+These segments have involved
+
+
+LAYOUT DESIGNING/VASTU COMPLIANT RENOVATIONS/ANALYSIS OF PROPERTIES FOR VASTU COMPLIANCE/INTERIOR DESIGNING AS PER VASTU AND FENG SHUI PRINCIPLES/VASTU FOR SPECIFIC PROBLEMS (HEALTH, WEALTH, EDUCATION, and STABILITY)

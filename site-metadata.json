@@ -75,7 +75,7 @@
             },
             {
                 "label": "WhatsApp",
-                "url": "lorem-ipsum",
+                "url": "https://api.whatsapp.com/send?phone=+1-7205257748&text=Hi,%20I%20Need%20Vaastu%20Services",
                 "style": "link",
                 "new_window": false,
                 "type": "action"

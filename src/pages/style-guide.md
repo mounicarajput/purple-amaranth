@@ -2,7 +2,7 @@
 title: 'SERVICES- VASTU, ASTROLOGY, DOWSING'
 template: page
 ---
-###### **SERVICES- VASTU, ASTROLOGY, DOWSING**
+
 Vaastu Drishti aims at providing professional, confidential and process based Vastu Audits, Birth Chart Analysis and Dowsing for space cleaning to its clients.
 
 ##### VASTU:

@@ -44,13 +44,13 @@ The principles of Vastu can be applied on any closed structure. Though the basic
 2. **Proportion of the building**: Again lopsided construction will yield only lop sided results. It is therefore essential to know the exact proportion in which the building should be contructed vis a vis the plot size
 3. **Ground level:** It is more or less the same as the Slope Level.
 4. **Roofing:** It is important to remember that the roof should slope towards North & North East
-5. **Building Height:** The height of the building can be either equal on all sides or more raised on the Southern sides
-6. **Cellars and Basements:** One cannot utilize the entire floor under the building as a basement. How much area needs to be left untouched is important.
-7. **Staircases**: Both the direction and the position of staircases in any structure are important
-Overhead and Underground Water Tanks, Swimming Pools, Septic Tanks, Bore Well: The right position of all these is important. Placing them in a wrong directions can have adverse effects on health, finances or overall well-being.
-**WC’s:** One has to be very careful in positioning the WC’s in their exact direction. But even if they are built in the right directions keeping them clean is of utmost importance.
-Main entry gate Depending upon; in which of the 16 directions the Main entry gate is located will define its implications.
-VASTU PRINCIPLES FOR INTERIORS
+5.  **Building Height:** The height of the building can be either equal on all sides or more raised on the Southern sides
+6.   **Cellars and Basements:** One cannot utilize the entire floor under the building as a basement. How much area needs to be left untouched is important.
+7.   **Staircases**: Both the direction and the position of staircases in any structure are important
+8.   **Overhead and Underground Water Tanks, Swimming Pools,Septic Tanks, Bore Well:** The right position of all these is important. Placing them in a wrong directions can have adverse effects on health, finances or overall well-being.
+9.   **WC’s:** One has to be very careful in positioning the WC’s in their exact direction. But even if they are built in the right directions keeping them clean is of utmost importance.
+10.   **Main entry gate Depending upon;** in which of the 16 directions the Main entry gate is located will define its implications.
+###### VASTU PRINCIPLES FOR INTERIORS
 
 Planning the rooms of a building as per the 16 directions.
 Color combination of walls/upholstery/drapery etc.

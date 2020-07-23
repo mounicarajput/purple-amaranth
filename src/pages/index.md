@@ -19,7 +19,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/festive-triceratops.png
+    image: images/unnamed.jpg
     image_position: right
     has_background: true
     background:

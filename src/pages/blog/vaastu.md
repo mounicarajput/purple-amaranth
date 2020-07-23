@@ -3,7 +3,11 @@ title: Vastu
 date: '2020-07-23'
 categories: []
 tags: []
-excerpt: ''
+excerpt: >-
+  Vastu is an ancient science of building structures based on the study of
+  directions and the laws of nature. It combines these two important aspects and
+  accordingly aligns a property to draw the maximum benefits for the
+  inhabitants. Though vastu was essentially restricted to building temples....
 template: post
 image: images/vv.jpg
 ---

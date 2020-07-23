@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/vaastu.jpg
 excerpt: >-
   Though there are numerous people today who understand the importance of
   building a structure as per vastu, there are still many who feel that it makes

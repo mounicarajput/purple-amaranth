@@ -19,7 +19,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /blog/vaastu
             style: primary
       - title: Astrology
         content: >-

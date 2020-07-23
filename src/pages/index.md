@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Vaastu
+      - title: Vastu
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

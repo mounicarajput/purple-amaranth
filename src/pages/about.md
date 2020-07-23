@@ -48,7 +48,7 @@ sections:
       You may connect with me on Facebook, Instagram, WhatsApp or Linkedin for
       more details.
   - type: cta_section
-    title: Join the Team
+    title: Join Us
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us

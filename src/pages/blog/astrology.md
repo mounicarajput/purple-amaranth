@@ -3,7 +3,11 @@ title: ASTROLOGY
 date: '2020-07-23'
 categories: []
 tags: []
-excerpt: ''
+excerpt: >-
+  Hindu astrology, Indian astrology or the Vedic astrology is an ancient Indian
+  science which studies the planetary positions with respect to time and their
+  effect on humans and other important events on earth. The birth chart of an
+  individual forms the road map of his journey on planet...
 template: post
 image: images/as.jpg
 ---

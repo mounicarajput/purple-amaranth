@@ -72,6 +72,13 @@
                 "url": "https://www.linkedin.com/in/vaastudrishti/",
                 "style": "link",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "content": "&copy; Stackbit-Starter. All rights reserved.",

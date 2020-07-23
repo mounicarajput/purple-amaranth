@@ -34,7 +34,7 @@ sections:
           for the inhabitants. Though vastu was essentially restricted to
           building temples....
         align: left
-        image: images/images.jpeg
+        image: images/smiling-wallaby.jpg
         image_position: right
         actions:
           - label: Learn More

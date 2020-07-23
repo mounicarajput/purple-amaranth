@@ -1,5 +1,5 @@
 ---
-title: Services
+title: 'SERVICES- VASTU, ASTROLOGY, DOWSING'
 template: page
 ---
 ###### **SERVICES- VASTU, ASTROLOGY, DOWSING**

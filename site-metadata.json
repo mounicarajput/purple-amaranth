@@ -27,7 +27,7 @@
             {
                 "label": "projects",
                 "url": "/project",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Contact Us",

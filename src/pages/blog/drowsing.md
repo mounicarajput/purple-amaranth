@@ -5,6 +5,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 template: post
+image: images/dowsing-pendulum.jpg
 ---
 ###### WHAT IS DOWSING:
 

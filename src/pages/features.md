@@ -9,9 +9,11 @@ sections:
     features:
       - title: Vastu
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Vastu is an ancient science of building structures based on the study
+          of directions and the laws of nature. It combines these two important
+          aspects and accordingly aligns a property to draw the maximum benefits
+          for the inhabitants. Though vastu was essentially restricted to
+          building temples.... 
         align: left
         image: images/feature.svg
         image_position: right

@@ -5,6 +5,7 @@ sections:
     title: KNOW YOUR VASTU CONSULTANT
     align: center
     image: images/sabina.png
+    image_position: right
   - type: content_section
     content: >-
 

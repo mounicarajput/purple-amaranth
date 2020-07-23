@@ -5,6 +5,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 template: post
+image: images/v.jpeg
 ---
 ##### What is Vastu: 
 Vastu is an ancient science of building structures based on the study of directions and the laws of nature. It combines these two important aspects and accordingly aligns a property to draw the maximum benefits for the inhabitants. Though vastu was essentially restricted to building temples however in the later decades it was used to build all kinds of properties or structures. A proper knowledge of the gravitational field, the magnetic field, velocity of winds and the ultraviolet rays helps in designing structures that are full of positive energy and therefore form a protective shield which helps in the growth of the inhabitants. Vastu has nothing to do with any religion or religious belief.

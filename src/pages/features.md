@@ -37,9 +37,12 @@ sections:
             style: primary
       - title: Dowsing
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          To dowse is to search, with the aid of simple hand held tools or
+          instruments, for that which is otherwise hidden from view or
+          knowledge. Traditionally dowsing has been a method of ‘divining’ or
+          looking for underground sources of water (and often oil). But dowsing
+          isn’t just about finding water or oil. It can be applied to
+          searches.... 
         align: left
         image: images/feature.svg
         image_position: right

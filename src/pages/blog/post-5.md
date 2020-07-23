@@ -1,5 +1,5 @@
 ---
-title: Vaastu Drishti has worked on the following segments.
+title: 'VASTU IN THE 21ST CENTURY:'
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:

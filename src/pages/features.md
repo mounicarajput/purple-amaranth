@@ -15,7 +15,7 @@ sections:
           for the inhabitants. Though vastu was essentially restricted to
           building temples.... 
         align: left
-        image: images/feature.svg
+        image: images/great-mango.jpg
         image_position: right
         actions:
           - label: Learn More
@@ -29,7 +29,7 @@ sections:
           The birth chart of an individual forms the road map of his journey on
           planet... 
         align: left
-        image: images/feature.svg
+        image: images/maroon-zucchini.jpg
         image_position: left
         actions:
           - label: Learn More
@@ -44,7 +44,7 @@ sections:
           isn’t just about finding water or oil. It can be applied to
           searches.... 
         align: left
-        image: images/feature.svg
+        image: images/good-pluto.jpg
         image_position: right
         actions:
           - label: Learn More

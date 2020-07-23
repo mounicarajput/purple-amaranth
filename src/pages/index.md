@@ -54,7 +54,7 @@ sections:
           - label: Learn More
             url: /blog/astrology
             style: secondary
-      - title: Drowsing
+      - title: Dowsing
         content: >-
           To dowse is to search, with the aid of simple hand held tools or
           instruments, for that which is otherwise hidden from view or

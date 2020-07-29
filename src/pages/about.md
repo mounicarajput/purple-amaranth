@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: KNOW YOUR VASTU CONSULTANT
+    title: ''
     align: center
     image: images/sabina.png
     image_position: left

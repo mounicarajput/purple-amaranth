@@ -86,6 +86,6 @@ sections:
         url: /contact
         style: primary
     has_background: true
-    background_color: blue
+    background_color: gray
 template: advanced
 ---

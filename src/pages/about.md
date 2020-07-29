@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: ''
+    title: KNOW YOUR VASTU CONSULTANT
     align: center
     image: images/beige-paprika.png
     image_position: left

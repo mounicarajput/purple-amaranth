@@ -1,6 +1,6 @@
 ---
 title: 'VASTU IN THE 21ST CENTURY:'
-date: '2020-06-02'
+date: ''
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml

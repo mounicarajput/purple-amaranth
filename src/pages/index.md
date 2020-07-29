@@ -23,7 +23,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: blue
       background_image: images/pexels-photo-2694037.jpeg
       background_image_opacity: 60
       background_image_size: cover

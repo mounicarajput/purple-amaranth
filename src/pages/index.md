@@ -31,7 +31,7 @@ sections:
   - type: features_section
     title: Expertise
     features:
-      - title: Vastua
+      - title: Vastu
         content: >-
           Vastu is an ancient science of building structures based on the study
           of directions and the laws of nature. It combines these two important

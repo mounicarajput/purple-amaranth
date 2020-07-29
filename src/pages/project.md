@@ -5,15 +5,15 @@ template: page
 ---
 Vaastu Drishti has worked on the following segments.
 
-* RESIDENTIAL
-* COMMERCIAL
-* EDUCATIONAL INSTITUTES
-* HOTELS
-* NURSING HOMES
-* BEAUTY SALONS
-* INDUSTRIAL UNIT
-* APARTMENTS
-* CORPORATE HOUSES
+* **RESIDENTIAL**
+* **COMMERCIAL**
+* **EDUCATIONAL INSTITUTES**
+* **HOTELS**
+* **NURSING HOMES**
+* **BEAUTY SALONS**
+* **INDUSTRIAL UNIT**
+* **APARTMENTS**
+* **CORPORATE HOUSES**
 
 
 These segments have involved

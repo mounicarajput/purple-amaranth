@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: ''
     align: center
-    image: images/sabina.png
+    image: images/sabina.jpg
     image_position: left
   - type: content_section
     content: >-

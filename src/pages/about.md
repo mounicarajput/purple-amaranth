@@ -8,6 +8,7 @@ sections:
     image_position: left
   - type: content_section
     content: >-
+      ###### KNOW YOUR VASTU CONSULTANT
 
       I’m a professionally trained Vastu consultant and have been practicing
       since 2003. I have worked on residential, commercial, institutional and

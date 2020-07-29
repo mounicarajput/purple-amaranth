@@ -2,12 +2,13 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: KNOW YOUR VASTU CONSULTANT
+    title: ''
     align: center
-    image: images/sabina.png
+    image: images/beige-paprika.png
     image_position: left
   - type: content_section
     content: >-
+      ###### KNOW YOUR VASTU CONSULTANT
 
       I’m a professionally trained Vastu consultant and have been practicing
       since 2003. I have worked on residential, commercial, institutional and

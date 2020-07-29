@@ -10,19 +10,19 @@ Vastu consultancy is available for all kinds of properties. Residential, Commerc
 
 **1. Site Selection and Planning:**
 
-Vaastu Drishti helps you in making the right decision by assisting you in the selection of a Vastu compliant property or site. Once this is achieved planning of rooms, color combinations, main entry door location and enhancers are suggested to increase the flow of positive energy. (Avail Consultancy....)
+Vaastu Drishti helps you in making the right decision by assisting you in the selection of a Vastu compliant property or site. Once this is achieved planning of rooms, color combinations, main entry door location and enhancers are suggested to increase the flow of positive energy. 
 
 **2. Layout Designing:**
 
-If you have already selected a property/site Vaastu Drishti will help you in designing a vastu compliant plan of the house. It shall involve location of main entrance, allocation of rooms, color combinations, placement of bath/toilets, septic tanks, overhead tanks, color combinations, auspicious dates for staring the construction work and auspicious dates for moving into the house. (Avail Consultancy...)
+If you have already selected a property/site Vaastu Drishti will help you in designing a vastu compliant plan of the house. It shall involve location of main entrance, allocation of rooms, color combinations, placement of bath/toilets, septic tanks, overhead tanks, color combinations, auspicious dates for staring the construction work and auspicious dates for moving into the house.
 
 **3. Remodeling or Renovation:**
 
-If you are planning to renovate your house Vaastu Drishti will help you access the weak areas in your property and help you remodel the house according to Vastu Principles so that you draw the maximum benefits from the same property. (Avail Consultancy...)
+If you are planning to renovate your house Vaastu Drishti will help you access the weak areas in your property and help you remodel the house according to Vastu Principles so that you draw the maximum benefits from the same property. 
 
 **4. Property Survey:**
 
-A property survey shall help you analyze the defects in your property and the remedies shall improve the energy levels. Just like a health check up is good for your body a property survey for vastu defects help you understand the level of defects in your property, how they are effecting you and how to overcome them. (Avail Consultancy...)
+A property survey shall help you analyze the defects in your property and the remedies shall improve the energy levels. Just like a health check up is good for your body a property survey for vastu defects help you understand the level of defects in your property, how they are effecting you and how to overcome them.
 
 ###### ASTROLOGY:
 Astrological consultations are a good way to understand many unexplainable things which may be a cause of concern in one's life. It also helps in the understanding of difficult phases and making the right decisions. It helps on a psychological plane too in easing off many tensions and turbulences if one is going through. Pre- requisite for Astrological Consultations are Date, Time and Place of Birth.
@@ -35,7 +35,7 @@ A complete analysis of the birth chart defines and explains how each planetary p
 
 **2. Marriage Compatibility:**
 
-A marriage compatibility report helps those who are about to get married or already married and having complications in married life. An analysis of the birth chart both boy and girl determines if the match is made for each other, has to put in efforts to understand each other or is completely in-compatible. (Avail Consultancy...)
+A marriage compatibility report helps those who are about to get married or already married and having complications in married life. An analysis of the birth chart both boy and girl determines if the match is made for each other, has to put in efforts to understand each other or is completely in-compatible. 
 
 ###### DOWSING:
-Dowsing consultations help in determining how the energies under the earth are effecting a human beings well being. Dowsing identifies the sources of negativity or geo-pathic stress in a premise. If for example the geopathic stress is identified running under the bed of a couple or their kids it has the potential to make the people sick. If in an office scenario the geopathic stress is found under the table or chair of the employees or employer it will hamper the work productivity in that office. Dowsing is a pro-active method of eliminating the source of negative energies which can affect the overall well being of human being. (Avail Consultancy...)
+Dowsing consultations help in determining how the energies under the earth are effecting a human beings well being. Dowsing identifies the sources of negativity or geo-pathic stress in a premise. If for example the geopathic stress is identified running under the bed of a couple or their kids it has the potential to make the people sick. If in an office scenario the geopathic stress is found under the table or chair of the employees or employer it will hamper the work productivity in that office. Dowsing is a pro-active method of eliminating the source of negative energies which can affect the overall well being of human being. 

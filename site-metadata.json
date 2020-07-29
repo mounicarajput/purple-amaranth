@@ -37,7 +37,7 @@
                 "type": "action"
             }
         ],
-        "logo": "images/logo1.jpg"
+        "logo": "images/logo1 (3) (1).jpg"
     },
     "footer": {
         "has_nav": true,
@@ -76,11 +76,11 @@
                 "type": "action"
             }
         ],
-        "content": "@LadyBug. All rights reserved.",
+        "content": "© Vaastu Drishti - Science of Better living. All rights reserved",
         "links": [
             {
-                "label": "Made with love",
-                "url": "https://www.stackbit.com",
+                "label": "",
+                "url": "",
                 "style": "link",
                 "new_window": true
             }

@@ -30,7 +30,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "",
                 "url": "/contact/",
                 "style": "link",
                 "new_window": false,

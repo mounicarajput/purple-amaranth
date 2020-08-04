@@ -20,7 +20,8 @@ my daughter’s future and today she got admission in one of
  the topmost universities of India.Finally, I would like to thank Sabina for the wonderful support and personal advice. Her              predictions have been very helpful and I know I can count on her for putting things into perspective and guide unconditionally.  ~ **POOJA MALHOTRA**
  
  
-Thank you so much for helping me out of the whirlwind in my life. Without your support and guidance I'd have been drowned in sorrow.Your timely advice and your care helped me to sail through tough times. I will always be obliged for your help.  ~ **NUPUR ARORA **
+Thank you so much for helping me out of the whirlwind in my life. Without your support and guidance I'd have been drowned in sorrow.Your timely advice and your care helped me to sail through tough times. I will always be obliged for your help.  
+~**NUPUR ARORA**
 
 I have used her services for Tarot. Believe me cards never lie, 
 she gave me some insights of upcoming issues which helped 

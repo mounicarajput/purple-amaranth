@@ -17,4 +17,4 @@ there was a moment when we felt that our daughter might
 have to drop a year. But after sharing my problem with 
 Sabina, I would say that her guidance and remedies changed 
 my daughter’s future and today she got admission in one of
- the topmost universities of India.Finally, I would like to thank Sabina for the wonderful support and personal advice. Her              predictions have been very helpful and I know I can count on her for putting things into perspective and guide unconditionally.  ~ POOJA MALHOTRA
+ the topmost universities of India.Finally, I would like to thank Sabina for the wonderful support and personal advice. Her              predictions have been very helpful and I know I can count on her for putting things into perspective and guide unconditionally.  ~ **POOJA MALHOTRA**

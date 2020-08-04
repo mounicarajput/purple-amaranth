@@ -31,7 +31,7 @@
             },
             {
                 "label": "Testimonial",
-                "url": "",
+                "url": "/testimonial",
                 "style": "link",
                 "new_window": false,
                 "type": "action"

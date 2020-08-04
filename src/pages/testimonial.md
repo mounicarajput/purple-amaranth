@@ -1,5 +1,5 @@
 ---
-title: ye
+title: TESTIMONIALS
 excerpt: lorem-ipsum
 template: page
 ---

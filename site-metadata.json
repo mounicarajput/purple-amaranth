@@ -32,7 +32,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact/",
-                "style": "primary",
+                "style": "link",
                 "new_window": false,
                 "type": "action"
             },

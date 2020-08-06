@@ -7,13 +7,12 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Vastu
+      - title: Vaastu
         content: >-
-          Vastu is an ancient science of building structures based on the study
-          of directions and the laws of nature. It combines these two important
-          aspects and accordingly aligns a property to draw the maximum benefits
-          for the inhabitants. Though vastu was essentially restricted to
-          building temples.... 
+          The literal meaning of Vastu is science of architecture. Vastu takes
+          into account the knowledge of gravitational and magnetic field,
+          velocity of winds and the effect of ultraviolet rays in designing
+          structures...
         align: left
         image: images/great-mango.jpg
         image_position: right

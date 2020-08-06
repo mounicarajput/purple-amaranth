@@ -1,41 +1,63 @@
 ---
-title: 'SERVICES- VASTU, ASTROLOGY, DOWSING'
+title: 'VAASTU, ASTROLOGY, TAROT'
 template: page
 ---
+###### VAASTU
 
-Vaastu Drishti aims at providing professional, confidential and process based Vastu Audits, Birth Chart Analysis and Dowsing for space cleaning to its clients.
+The literal meaning of Vastu is science of architecture. Vastu takes into account the knowledge of gravitational and magnetic field, velocity of winds and the effect of ultraviolet rays in designing structures. Structures built on Vastu principles are filled with positive energy and form a protective shield for the inmates and aids in their positive growth. Vastu has nothing to do with any religion or religious belief. 
 
-##### VASTU:
-Vastu consultancy is available for all kinds of properties. Residential, Commercial, Industrial, Educational as well as Business Hubs and Malls. The only pre-requisite being a layout or a plan of the premises which needs to be analyzed for Vastu. Following are the broad areas for which Vastu Consultation can be availed:
+I have been engaged in the study and implementation of Vastu principles since 2003. Over the years I have guided thousands of homeowners as well as businesses in designing & remodeling their spaces to live a more healthy and happy life. My experience has strengthened my belief that a healthy environment supports our growth and well being. 
 
-**1. Site Selection and Planning:**
+VASTU GUIDANCE 
+*  Home and Home-based business
+*  Old and New Business units 
+*  Vastu assessment for New Home or Land Purchase
+*  Comparison between properties before buying 
+*  New construction
+*  Remodeling 
 
-Vaastu Drishti helps you in making the right decision by assisting you in the selection of a Vastu compliant property or site. Once this is achieved planning of rooms, color combinations, main entry door location and enhancers are suggested to increase the flow of positive energy. 
 
-**2. Layout Designing:**
+If you want to raise the vibrations of your living space and live a healthy and happy life contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748
 
-If you have already selected a property/site Vaastu Drishti will help you in designing a vastu compliant plan of the house. It shall involve location of main entrance, allocation of rooms, color combinations, placement of bath/toilets, septic tanks, overhead tanks, color combinations, auspicious dates for staring the construction work and auspicious dates for moving into the house.
 
-**3. Remodeling or Renovation:**
+###### ASTROLOGY
 
-If you are planning to renovate your house Vaastu Drishti will help you access the weak areas in your property and help you remodel the house according to Vastu Principles so that you draw the maximum benefits from the same property. 
+Astrology is the study of forecasting the effects of planets and other celestial bodies like the Sun, Moon and Stars on humans. The birth chart of an individual is like a road map of his journey on earth and can be an incredible tool for self-discovery. Astrology acts like a link between humans and the universe and the birth chart an important key to help us understand our past, present and future events. Analysis of birth chart helps us in showing the right direction like a guru or teacher. Astrology is neither superstition nor regressive. It is a tool that helps us understand ourselves and our journey on earth. 
 
-**4. Property Survey:**
+I have been studying Vedic Astrology and reading horoscopes since 2010. I have helped people not only deal with their challenges but also overcome their fears. Birth chart is a great tool to understand the ups and downs of life and be mentally strong. Every birth chart is designed in such a way that it presents both good and bad times. My role is to interpret the different phases and guide my clients how to maintain balance and positivity during tough as well as good times.
 
-A property survey shall help you analyze the defects in your property and the remedies shall improve the energy levels. Just like a health check up is good for your body a property survey for vastu defects help you understand the level of defects in your property, how they are effecting you and how to overcome them.
+ASTROLOGY GUIDANCE 
 
-###### ASTROLOGY:
-Astrological consultations are a good way to understand many unexplainable things which may be a cause of concern in one's life. It also helps in the understanding of difficult phases and making the right decisions. It helps on a psychological plane too in easing off many tensions and turbulences if one is going through. Pre- requisite for Astrological Consultations are Date, Time and Place of Birth.
+* Birth chart 
+* Education and Career 
+* Business and Work
+* Finance 
+* Match Making and Marriage 
+* Relationships
+* Health
+* Know your strengths and weaknesses
+* Psychological Guidance through Astrology
 
-Following are the broad areas for Astrological Consultations:
+If you would like to gain some insights into your life or circumstances, you may contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748
 
-**1. Birth Chart Analysis:**
 
-A complete analysis of the birth chart defines and explains how each planetary position effects one's life. It provides a step by step understanding of the different phases of your life making you more aware and helps in personal growth. Areas covered in Birth Chart reading are Personality analysis, Sade Sati Report, Dasha Analysis, Kalsarp Dosh, Mangal Dosh, Varshphal analysis.
+###### TAROT
 
-**2. Marriage Compatibility:**
+The word Tarot is an Italian word which means Ta -Royal, Rot - Road or the Royal Path. Tarot originated in the Medieval Europe during the 1600's and is a form of Divination which helps us understand our past, connects it with our present and helps us better our future. Tarot gained popularity during the Victorian age when the study and research of Sub Conscious mind was as important as Science and Technology. Just like Vastu and Astrology Tarot too is a guidance tool and has nothing to do with miracles, spells or supernatural powers. 
 
-A marriage compatibility report helps those who are about to get married or already married and having complications in married life. An analysis of the birth chart both boy and girl determines if the match is made for each other, has to put in efforts to understand each other or is completely in-compatible. 
 
-###### DOWSING:
-Dowsing consultations help in determining how the energies under the earth are effecting a human beings well being. Dowsing identifies the sources of negativity or geo-pathic stress in a premise. If for example the geopathic stress is identified running under the bed of a couple or their kids it has the potential to make the people sick. If in an office scenario the geopathic stress is found under the table or chair of the employees or employer it will hamper the work productivity in that office. Dowsing is a pro-active method of eliminating the source of negative energies which can affect the overall well being of human being. 
+I started studying Tarot in 2017 and use the Rider Waite deck to guide people. Based on the feedback from my clients I'm happy to say that they have benefited in making wiser and informed decisions. 
+
+TAROT GUIDANCE
+
+* General
+* Relationships
+* Love and Marriage
+* Career and Work
+* Children
+* Roadblocks
+* Health
+* Finances
+
+If you would like to gain some insights into your life or circumstances, you may contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748
+

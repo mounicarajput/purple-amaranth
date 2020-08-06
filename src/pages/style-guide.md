@@ -1,5 +1,5 @@
 ---
-title: 'SERVICES- VASTU, ASTROLOGY, Tarot'
+title: 'SERVICES- VASTU, ASTROLOGY, TAROT'
 template: page
 ---
 

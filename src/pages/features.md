@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Vastu
+      - title: Vaastu
         content: >-
           The literal meaning of Vastu is science of architecture. Vastu takes
           into account the knowledge of gravitational and magnetic field,

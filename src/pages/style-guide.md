@@ -3,26 +3,22 @@ title: 'VAASTU, ASTROLOGY, TAROT'
 template: page
 ---
 
-Vaastu Drishti aims at providing professional, confidential and process based Vastu Audits, Birth Chart Analysis and Dowsing for space cleaning to its clients.
 
-##### VASTU:
-Vastu consultancy is available for all kinds of properties. Residential, Commercial, Industrial, Educational as well as Business Hubs and Malls. The only pre-requisite being a layout or a plan of the premises which needs to be analyzed for Vastu. Following are the broad areas for which Vastu Consultation can be availed:
+																									**VAASTU**
 
-**1. Site Selection and Planning:**
+The literal meaning of Vastu is science of architecture. Vastu takes into account the knowledge of gravitational and magnetic field, velocity of winds and the effect of ultraviolet rays in designing structures. Structures built on Vastu principles are filled with positive energy and form a protective shield for the inmates and aids in their positive growth. Vastu has nothing to do with any religion or religious belief. 
 
-Vaastu Drishti helps you in making the right decision by assisting you in the selection of a Vastu compliant property or site. Once this is achieved planning of rooms, color combinations, main entry door location and enhancers are suggested to increase the flow of positive energy. 
-
-**2. Layout Designing:**
-
-If you have already selected a property/site Vaastu Drishti will help you in designing a vastu compliant plan of the house. It shall involve location of main entrance, allocation of rooms, color combinations, placement of bath/toilets, septic tanks, overhead tanks, color combinations, auspicious dates for staring the construction work and auspicious dates for moving into the house.
-
-**3. Remodeling or Renovation:**
-
-If you are planning to renovate your house Vaastu Drishti will help you access the weak areas in your property and help you remodel the house according to Vastu Principles so that you draw the maximum benefits from the same property. 
-
-**4. Property Survey:**
-
-A property survey shall help you analyze the defects in your property and the remedies shall improve the energy levels. Just like a health check up is good for your body a property survey for vastu defects help you understand the level of defects in your property, how they are effecting you and how to overcome them.
+I have been engaged in the study and implementation of Vastu principles since 2003. Over the years I have guided thousands of homeowners as well as businesses in designing & remodeling their spaces to live a more healthy and happy life. My experience has strengthened my belief that a healthy environment supports our growth and well being. 
+​
+VASTU GUIDANCE 
+. Home and Home-based business
+. Old and New Business units 
+. Vastu assessment for New Home or Land Purchase 
+. Comparison between properties before buying 
+. New construction
+. Remodeling 
+​
+If you want to raise the vibrations of your living space and live a healthy and happy life contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748
 
 ###### ASTROLOGY:
 Astrological consultations are a good way to understand many unexplainable things which may be a cause of concern in one's life. It also helps in the understanding of difficult phases and making the right decisions. It helps on a psychological plane too in easing off many tensions and turbulences if one is going through. Pre- requisite for Astrological Consultations are Date, Time and Place of Birth.

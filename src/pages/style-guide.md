@@ -2,7 +2,7 @@
 title: 'VAASTU, ASTROLOGY, TAROT'
 template: page
 ---
-###### VASTU
+###### VAASTU
 
 The literal meaning of Vastu is science of architecture. Vastu takes into account the knowledge of gravitational and magnetic field, velocity of winds and the effect of ultraviolet rays in designing structures. Structures built on Vastu principles are filled with positive energy and form a protective shield for the inmates and aids in their positive growth. Vastu has nothing to do with any religion or religious belief. 
 

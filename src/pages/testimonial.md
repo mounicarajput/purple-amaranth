@@ -31,7 +31,6 @@ Thanks Sabina  she gave me some insights of upcoming
 issues which helped me to cope up with the issue before in 
 better manner. 
 Thanks Sabina 
-
 ~**SAMAR**
 
 You are very knowledgeable in your field Sabina.
@@ -39,7 +38,6 @@ You are very knowledgeable in your field Sabina.
 our house. Your predictions were absolutely correct. 
 Big thanks for the timely advice. Your guidance is highly 
 recommended.
-
 ~ **URVI**
 
 
@@ -48,18 +46,14 @@ I have no words to express my gratitude towards you for guiding
 us through the tough times.At one point we were helpless and
  did not know what to do but your guidance and advise helped us sail through and for this I will be forever obliged.
 Thanks, and lots of love
-
 ~ **SUSAN THAKRAL** 
 
 I have been taking Sabina’s guidance since the past 10 years on all my properties. Every time I need to remodel or buy a new property, I know I can trust Sabina with her immense knowledge on Vastu. Thanks for your help and guidance all these years. 
-
 ~ **POONAM GOYAL** 
 
 Sabina has been like a God sent messenger. I remember the night when I had a major fight with my spouse, I was very depressed and suicidal that day. Sabina asked me to do some chants and the fight miraculously dissolved. Thank you Sabina
-
 ~ **VINNY**
 
 I would like to thank Sabina for guiding us during the COVID 
 pandemic about our health, finances and career. Her Tarot readings are accurate and provide a great support in times of indecsion. 
-
 ~ **RAMAN VASHISHT**

@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Expertise
-    subtitle: 'VASTU, ASTROLOGY, DOWSING'
+    subtitle: 'VASTU, ASTROLOGY, TAROT'
     align: center
   - type: features_section
     features:

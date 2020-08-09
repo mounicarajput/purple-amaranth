@@ -8,7 +8,7 @@ excerpt: >-
   Royal Path. Tarot originated in the Medieval Europe during the 1600&#39;s and
   is a form of Divination which helps us understand our past,.
 template: post
-image: images/vv.jpg
+image: images/happy-thyme.jpeg
 ---
 The literal meaning of Vastu is science of architecture. Vastu takes into account the knowledge of gravitational and magnetic field, velocity of winds and the effect of ultraviolet rays in designing structures. Structures built on Vastu principles are filled with positive energy and form a protective shield for the inmates and aids in their positive growth. Vastu has nothing to do with any religion or religious belief. 
 

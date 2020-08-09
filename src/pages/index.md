@@ -61,12 +61,13 @@ sections:
             style: secondary
       - title: Dowsing
         content: >-
-          To dowse is to search, with the aid of simple hand held tools or
-          instruments, for that which is otherwise hidden from view or
-          knowledge. Traditionally dowsing has been a method of ‘divining’ or
-          looking for underground sources of water (and often oil). But dowsing
-          isn’t just about finding water or oil. It can be applied to
-          searches.... 
+          The word Tarot is an Italian word which means Ta -Royal, Rot - Road or
+          the Royal Path. Tarot
+
+          originated in the Medieval Europe during the 1600&#39;s and is a form
+          of Divination which helps us
+
+          understand our past,.....
         align: left
         image: images/enthusiastic-birch.jpg
         image_position: right

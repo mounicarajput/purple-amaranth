@@ -21,12 +21,7 @@ sections:
             url: /blog/vaastu
             style: primary
       - title: Astrology
-        content: >-
-          Hindu astrology, Indian astrology or the Vedic astrology is an ancient
-          Indian science which studies the planetary positions with respect to
-          time and their effect on humans and other important events on earth.
-          The birth chart of an individual forms the road map of his journey on
-          planet... 
+        content: "Astrology is the study of forecasting the effects of planets and other celestial bodies like the Sun, Moon and\_Stars on humans. The birth chart of an individual is like a\_road map of his journey on\_earth and can be an incredible tool for self discovery.\_Astrology...."
         align: left
         image: images/maroon-zucchini.jpg
         image_position: left

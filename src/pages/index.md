@@ -69,7 +69,7 @@ sections:
 
           understand our past,.....
         align: left
-        image: images/oceanic-mango.jpg
+        image: images/tarot1.jpeg
         image_position: right
         actions:
           - label: Learn More

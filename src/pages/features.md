@@ -18,7 +18,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog/vaastu
+            url: /blog/drowsing
             style: primary
       - title: Astrology
         content: "Astrology is the study of forecasting the effects of planets and other celestial bodies like the Sun, Moon and\_Stars on humans. The birth chart of an individual is like a\_road map of his journey on\_earth and can be an incredible tool for self discovery.\_Astrology...."

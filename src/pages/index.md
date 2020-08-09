@@ -59,7 +59,7 @@ sections:
           - label: Learn More
             url: /blog/astrology
             style: secondary
-      - title: Dowsing
+      - title: Tarot
         content: >-
           The word Tarot is an Italian word which means Ta -Royal, Rot - Road or
           the Royal Path. Tarot

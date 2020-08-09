@@ -4,10 +4,9 @@ date: '2020-07-23'
 categories: []
 tags: []
 excerpt: >-
-  Vastu is an ancient science of building structures based on the study of
-  directions and the laws of nature. It combines these two important aspects and
-  accordingly aligns a property to draw the maximum benefits for the
-  inhabitants. Though vastu was essentially restricted to building temples....
+  The word Tarot is an Italian word which means Ta -Royal, Rot - Road or the
+  Royal Path. Tarot originated in the Medieval Europe during the 1600&#39;s and
+  is a form of Divination which helps us understand our past,.
 template: post
 image: images/vv.jpg
 ---

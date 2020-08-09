@@ -12,16 +12,18 @@ excerpt: >-
 template: post
 image: images/dowsing-pendulum.jpg
 ---
-###### WHAT IS DOWSING:
+The word Tarot is an Italian word which means Ta -Royal, Rot - Road or the Royal Path. Tarot originated in the Medieval Europe during the 1600's and is a form of Divination which helps us understand our past, connects it with our present and helps us better our future. Tarot gained popularity during the Victorian age when the study and research of Sub Conscious mind was as important as Science and Technology. Just like Vastu and Astrology Tarot too is a guidance tool and has nothing to do with miracles, spells or supernatural powers.
 
-To dowse is to search, with the aid of simple hand held tools or instruments, for that which is otherwise hidden from view or knowledge. Traditionally dowsing has been a method of ‘divining’ or looking for underground sources of water (and often oil). But dowsing isn’t just about finding water or oil. It can be applied to searches for a great number of things. It is a method of finding answers or objects or energy fields as indicated by the movement of a device such as Angle rods, V rod, Wand or a Pendulum.
+I started studying Tarot in 2017 and use the Rider Waite deck to guide people. Based on the feedback from my clients I'm happy to say that they have benefited in making wiser and informed decisions.
 
-###### DOWSING AND VASTU:
+**TAROT GUIDANCE**
 
-Dowsing in Vastu is used to detect the negative energy sources. Dowsing can be used to detect unhealthy sources of radiations which cause illness and other blockages in our day to day life. Dowsing can be used to determine if a land is healthy or not for building a structure and also for determining the level of negative energy in already built structures. If a person cannot sleep well or wakes up every morning with a headache or some other problem it means that the place where he is sleeping is emitting negative energy or radiations. Dowsing helps identify such spots.
-
-###### VAASTU DRISHTI AND DOWSING:
-
-Vaastu Drishti combines dowsing with vastu to study the energy field in a property. Angle rods are used to determine the energy fields and areas low on positive energy. A negative energy field can be caused due to sewer lines, electrical wiring, gas pipes and earth radiations. This is also known as geopathic stress. Geopathic Stress or a negative energy field can have a negative impact on people and affect their day to day life in terms of unstable finances, dented relationships, poor career growth , low immunity levels leading to health problems and other important aspects.
-
-Vaastu Drishti offers space cleaning or cleaning a property of any negative radiations through dowsing and offers cures depending upon the intensity of negative energy.
+General
+Relationships
+Love and Marriage
+Career and Work
+Children
+Roadblocks
+Health
+Finances
+If you would like to gain some insights into your life or circumstances, you may contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748

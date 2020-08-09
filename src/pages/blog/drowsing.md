@@ -18,12 +18,13 @@ I started studying Tarot in 2017 and use the Rider Waite deck to guide people. B
 
 **TAROT GUIDANCE**
 
-General
-Relationships
-Love and Marriage
-Career and Work
-Children
-Roadblocks
-Health
-Finances
+* General
+* Relationships
+* Love and Marriage
+* Career and Work
+* Children
+* Roadblocks
+* Health
+* Finances
+
 If you would like to gain some insights into your life or circumstances, you may contact Sabina by email: sabina.vanjani@gmail.com or call/text on +1.720.525.7748

@@ -39,7 +39,7 @@ sections:
 
           understand our past,.....
         align: left
-        image: images/good-pluto.jpg
+        image: images/futuristic-sage.jpeg
         image_position: right
         actions:
           - label: Learn More

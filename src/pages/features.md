@@ -34,7 +34,7 @@ sections:
           - label: Learn More
             url: /blog/astrology
             style: primary
-      - title: Dowsing
+      - title: Tarot
         content: >-
           To dowse is to search, with the aid of simple hand held tools or
           instruments, for that which is otherwise hidden from view or

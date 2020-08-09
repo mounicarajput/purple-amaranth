@@ -69,7 +69,7 @@ sections:
 
           understand our past,.....
         align: left
-        image: images/enthusiastic-birch.jpg
+        image: images/oceanic-mango.jpg
         image_position: right
         actions:
           - label: Learn More

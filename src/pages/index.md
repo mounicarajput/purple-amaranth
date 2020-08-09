@@ -43,15 +43,10 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog/vaastu
+            url: /blog/drowsing
             style: secondary
       - title: Astrology
-        content: >-
-          Hindu astrology, Indian astrology or the Vedic astrology is an ancient
-          Indian science which studies the planetary positions with respect to
-          time and their effect on humans and other important events on earth.
-          The birth chart of an individual forms the road map of his journey on
-          planet...
+        content: "Astrology is the study of forecasting the effects of planets and other celestial bodies like the Sun,\nMoon and\_Stars on humans. The birth chart of an individual is like a\_road map of his journey\non\_earth and can be an incredible tool for self-discovery.\_Astrology..."
         align: left
         image: images/cool-oregano.jpg
         image_position: left
@@ -59,20 +54,21 @@ sections:
           - label: Learn More
             url: /blog/astrology
             style: secondary
-      - title: Dowsing
+      - title: Tarot
         content: >-
-          To dowse is to search, with the aid of simple hand held tools or
-          instruments, for that which is otherwise hidden from view or
-          knowledge. Traditionally dowsing has been a method of ‘divining’ or
-          looking for underground sources of water (and often oil). But dowsing
-          isn’t just about finding water or oil. It can be applied to
-          searches.... 
+          The word Tarot is an Italian word which means Ta -Royal, Rot - Road or
+          the Royal Path. Tarot
+
+          originated in the Medieval Europe during the 1600&#39;s and is a form
+          of Divination which helps us
+
+          understand our past,.....
         align: left
-        image: images/enthusiastic-birch.jpg
+        image: images/tarot1.jpeg
         image_position: right
         actions:
           - label: Learn More
-            url: /blog/drowsing
+            url: /blog/vaastu
             style: secondary
   - type: blog_feed_section
     title: Articles

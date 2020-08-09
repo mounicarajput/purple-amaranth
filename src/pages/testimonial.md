@@ -17,7 +17,8 @@ there was a moment when we felt that our daughter might
 have to drop a year. But after sharing my problem with 
 Sabina, I would say that her guidance and remedies changed 
 my daughter’s future and today she got admission in one of
- the topmost universities of India.Finally, I would like to thank Sabina for the wonderful support and personal advice. Her              predictions have been very helpful and I know I can count on her for putting things into perspective and guide unconditionally.  ~ **POOJA MALHOTRA**
+ the topmost universities of India.Finally, I would like to thank Sabina for the wonderful support and personal advice. Her              predictions have been very helpful and I know I can count on her for putting things into perspective and guide unconditionally.  
+ ~ **POOJA MALHOTRA**
  
  
 Thank you so much for helping me out of the whirlwind in my life. Without your support and guidance I'd have been drowned in sorrow.Your timely advice and your care helped me to sail through tough times. I will always be obliged for your help.  
@@ -39,19 +40,20 @@ Big thanks for the timely advice. Your guidance is highly
 recommended.
 ~ **URVI**
 
+
 Dear Sabina
 I have no words to express my gratitude towards you for guiding 
 us through the tough times.At one point we were helpless and
  did not know what to do but your guidance and advise helped us sail through and for this I will be forever obliged.
 Thanks, and lots of love
-~**SUSAN THAKRAL **
+~ **SUSAN THAKRAL** 
 
 I have been taking Sabina’s guidance since the past 10 years on all my properties. Every time I need to remodel or buy a new property, I know I can trust Sabina with her immense knowledge on Vastu. Thanks for your help and guidance all these years. 
-~**POONAM GOYAL **
+~ **POONAM GOYAL** 
 
 Sabina has been like a God sent messenger. I remember the night when I had a major fight with my spouse, I was very depressed and suicidal that day. Sabina asked me to do some chants and the fight miraculously dissolved. Thank you Sabina
-~**VINNY**
+~ **VINNY**
 
 I would like to thank Sabina for guiding us during the COVID 
 pandemic about our health, finances and career. Her Tarot readings are accurate and provide a great support in times of indecsion. 
-~**RAMAN VASHISHT**
+~ **RAMAN VASHISHT**

@@ -1,27 +1,21 @@
 ---
-title: DOWSING
+title: Vaastu
 date: '2020-07-23'
 categories: []
 tags: []
 excerpt: >-
-  To dowse is to search, with the aid of simple hand held tools or instruments,
-  for that which is otherwise hidden from view or knowledge. Traditionally
-  dowsing has been a method of ‘divining’ or looking for underground sources of
-  water (and often oil). But dowsing isn’t just about finding water or oil. It
-  can be applied to searches....
+  Vastu is an ancient science of building structures based on the study of
+  directions and the laws of nature. It combines these two important aspects and
+  accordingly aligns a property to draw the maximum benefits for the
+  inhabitants. 
 template: post
-image: images/dowsing-pendulum.jpg
+image: images/enthusiastic-avocado.jpg
 ---
-###### WHAT IS DOWSING:
+**What is Vastu:**
+Vastu is an ancient science of building structures based on the study of directions and the laws of nature. It combines these two important aspects and accordingly aligns a property to draw the maximum benefits for the inhabitants. Though vastu was essentially restricted to building temples however in the later decades it was used to build all kinds of properties or structures. A proper knowledge of the gravitational field, the magnetic field, velocity of winds and the ultraviolet rays helps in designing structures that are full of positive energy and therefore form a protective shield which helps in the growth of the inhabitants. Vastu has nothing to do with any religion or religious belief.
 
-To dowse is to search, with the aid of simple hand held tools or instruments, for that which is otherwise hidden from view or knowledge. Traditionally dowsing has been a method of ‘divining’ or looking for underground sources of water (and often oil). But dowsing isn’t just about finding water or oil. It can be applied to searches for a great number of things. It is a method of finding answers or objects or energy fields as indicated by the movement of a device such as Angle rods, V rod, Wand or a Pendulum.
+**How Vastu Works:** 
+Vastu works on a simple philosophy of treating the house like a human body. A healthy body and mind reaps good and positive results. There is clarity of thought and therefore the body works with full energy and vitality. On the other hand an ailing body which does not have any energy or strength and is dependent upon medication can hardly function properly. A house or a structure built according to Vastu principles is healthy and produces positive results. It protects its inhabitants and brings all round growth. Therefore it is imperative that the foundations of any structure should be strong and healthy. If the structure is not built keeping vastu principles in mind it will degenerate bringing all kinds of miseries and afflictions.
 
-###### DOWSING AND VASTU:
-
-Dowsing in Vastu is used to detect the negative energy sources. Dowsing can be used to detect unhealthy sources of radiations which cause illness and other blockages in our day to day life. Dowsing can be used to determine if a land is healthy or not for building a structure and also for determining the level of negative energy in already built structures. If a person cannot sleep well or wakes up every morning with a headache or some other problem it means that the place where he is sleeping is emitting negative energy or radiations. Dowsing helps identify such spots.
-
-###### VAASTU DRISHTI AND DOWSING:
-
-Vaastu Drishti combines dowsing with vastu to study the energy field in a property. Angle rods are used to determine the energy fields and areas low on positive energy. A negative energy field can be caused due to sewer lines, electrical wiring, gas pipes and earth radiations. This is also known as geopathic stress. Geopathic Stress or a negative energy field can have a negative impact on people and affect their day to day life in terms of unstable finances, dented relationships, poor career growth , low immunity levels leading to health problems and other important aspects.
-
-Vaastu Drishti offers space cleaning or cleaning a property of any negative radiations through dowsing and offers cures depending upon the intensity of negative energy.
+**Vastu Drishti and Vastu:** 
+Vaastu Drishti believes in providing proper vastu guidance and helping people overcome their problems. The knowledge and experience of Vastu garnered over the years should be utilized in spreading awareness about the benefits of vastu and building structures that are beneficial for the coming generations. Vaastu Drishti has been engaged since 2003 in studying various structures with regards to vastu defects and rectifying them. A deep and proper understanding of the subject has helped in the correction of vastu defects and in turn helped the inmates enjoy a peaceful, stable and positive life. Vaastu Drishti has a vast experience in the field of vastu, has worked in designing various vastu compliant structures, rectified already built structures and used the knowledge of vastu to even cure sick and ailing structures.
